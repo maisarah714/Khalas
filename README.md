@@ -14,8 +14,10 @@ Mobile Application Development Course Project by Team Khalas
 Not only, `Project Name` aims to help students to succeed in their studies, it also seek to provides job opportunities to students as to ease their financial burden. Fret not, `Project Name` tries to lay out a middle ground price rate which are affordable for students and profitable for tutors.
 
 ### Objective of the proposed mobile application. (YUS)
-* To create fully functional mobile application.
-* 
+* To create one fully functional mobile application.
+* To giving a student a platform to find the tutor.
+* To gather all the tuto in one platform.
+* To make one platform that making student and tuto having easier communication.
 
 ### Features and functionalities of the proposed mobile application. (YUS)
 
