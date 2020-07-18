@@ -22,7 +22,7 @@ Not only, `Project Name` aims to help students to succeed in their studies, it a
 ### Features and functionalities of the proposed mobile application. (YUS)
 
  `Features`
- ** 
+For this project, it may require the user to have the internet in order to access it as it lives on the server. Users need register or login first before the able to access the application.They will have a homepage that will offer some options on where this application will bring them. The homepage will be different between user because of their role in this application. From that page, they can navigate to another page such as the type of education, the details of the tuto, chatroom page and and booking tutorial session if they are the students. For the tuto, they can have a request pages, details, and chatroom pages. 
  
  `Functionalities`
  
