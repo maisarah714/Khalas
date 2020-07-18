@@ -21,6 +21,17 @@ Not only, `Project Name` aims to help students to succeed in their studies, it a
 
 ### Features and functionalities of the proposed mobile application. (YUS)
 
+ `Features`
+ ** 
+ 
+ `Functionalities`
+ 
+ **Students**
+ * User can register through this application.
+ * Students can find and read all the details of the tutor.
+ * Students can book the tutorial sessions.
+ * Students can can chat to tuto.
+
 ### Properly define the screen navigation (routing) (HILMI) and components (presentational and container) (WANMAI) implementation with a diagram. 
 
 
