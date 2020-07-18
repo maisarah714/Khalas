@@ -27,10 +27,19 @@ Not only, `Project Name` aims to help students to succeed in their studies, it a
  `Functionalities`
  
  **Students**
- * User can register through this application.
- * Students can find and read all the details of the tutor.
- * Students can book the tutorial sessions.
- * Students can can chat to tuto.
+ * Register through this application.
+ * Find and read all the details of the tutor.
+ * Book the tutorial sessions.
+ * Chat with tuto if there any question.
+ * See their details.
+ 
+ **Tuto**
+ * Register through this application.
+ * Update their tutorial session.
+ * Accept or reject tutorial invitation
+ * Chat with the other users.
+ * View students details
+ 
 
 ### Properly define the screen navigation (routing) (HILMI) and components (presentational and container) (WANMAI) implementation with a diagram. 
 
