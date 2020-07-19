@@ -3,11 +3,12 @@ Mobile Application Development Course Project by Team Khalas
 
 ## Name and Matric No of the group members  in table (HAZ)
 
-## Title of the project. (HAZ)
+## Title of the project.
+`Mudaris`
 
 ### Introduction of the proposed mobile application
 
-`Project Name` is designed to provide a mean of communication between tutors and students of all ages to communicate and meet instantly and have a lesson whenever and wherever they want. Students are able to enjoy seamless journey of finding a tutor suits their need. With just a few clicks, they will be able to set up a lesson meeting instantly!
+`Mudaris` is designed to provide a mean of communication between tutors and students of all ages to communicate and meet instantly and have a lesson whenever and wherever they want. Students are able to enjoy seamless journey of finding a tutor suits their need. With just a few clicks, they will be able to set up a lesson meeting instantly!
 
 `Project Name` screens through tutors application and helps to match tutor and students based on level of studies, subjects or courses and location. Furthermore, students can view through potential tutors profile and choose a tutor suits their schedule, need, rating and trust. `Project Name` also provides sharing location service to ease meeting up at a specific location. 
 
