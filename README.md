@@ -10,7 +10,7 @@ Muhammad Hilmi Firdaus Bin Mohd Fuad | 1715733
 Nur Hazirah Binti Haris Fadzilah | 1714158
 
 ## Title of the project
-`Mudaris`
+`**Mudaris**`
 
 ### Introduction of the proposed mobile application
 
