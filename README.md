@@ -4,6 +4,9 @@ Mobile Application Development Course Project by Team Khalas
 ## Group members
 Name | Matric No
 -----|----------
+Yuseri Bin Che Yunus | 1710879
+Wan Maisarah Binti Wan Azhar | 1710714
+Muhammad Hilmi Firdaus Bin Mohd Fuad | 1715733
 Nur Hazirah Binti Haris Fadzilah | 1714158
 
 ## Title of the project
