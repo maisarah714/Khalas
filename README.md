@@ -1,7 +1,7 @@
 # Khalas
 Mobile Application Development Course Project by Team Khalas
 
-## Name and Matric No of the group members  in table (HAZ)
+## Group members
 
 ## Title of the project.
 `Mudaris`
