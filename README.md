@@ -2,8 +2,8 @@
 Mobile Application Development Course Project by Team Khalas
 
 ## Group members
-Name            | Matric No
-----------------|-----------------
+Name | Matric No
+-----|----------
 Nur Hazirah Binti Haris Fadzilah | 1714158
 
 ## Title of the project
