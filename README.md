@@ -48,8 +48,9 @@ For this project, it may require the user to have the internet in order to acces
  * Chat with the other users.
  * View students details
  
-
-## Properly define the screen navigation and components implementation with a diagram. 
+ 
+### Screen Navigation ###
+![Screenshot (7)](https://user-images.githubusercontent.com/61976768/87936927-5238a200-cac6-11ea-904c-ddac84f43c80.png)
 
 
 ### Presentational and container components
