@@ -62,8 +62,19 @@ The presentational components are:-
 
 The container are:-
 - User Authentication 
+- User Verification
 - Data retrieval
-- 
+- get Subject List
+- get Tutor List
+- get Tutor Profile
+- set Tutor Profile
+- get Tutor Availability 
+- Chat API
+- get User Profile
+- set User Profile
+- get Session
+- Booking Session
+- Notification
 
 ### A sequence diagram to represent the interaction of the proposed (HILMI) mobile application.
 
