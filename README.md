@@ -10,7 +10,7 @@ Muhammad Hilmi Firdaus Bin Mohd Fuad | 1715733
 Nur Hazirah Binti Haris Fadzilah | 1714158
 
 ## Title of the project
-**Mudaris**
+### Mudaris ###
 
 ## Introduction
 
@@ -18,19 +18,19 @@ Nur Hazirah Binti Haris Fadzilah | 1714158
 
 **Mudaris** screens through tutors application and helps to match tutor and students based on level of studies, subjects or courses and location. Furthermore, students can view through potential tutors profile and choose a tutor suits their schedule, need, rating and trust. **Mudaris** also provides sharing location service to ease meeting up at a specific location. 
 
-Not only, **Mudaris** aims to help students to succeed in their studies, it also seek to provides job opportunities to students as to ease their financial burden. Fret not, **Mudaris** tries to lay out a middle ground price rate which are affordable for students and profitable for tutors.
+Not only, **Mudaris** aims to help students to succeed in their studies, it also seek to provides job opportunities to students as to ease their financial burden. Fret not, **Mudaris** lays out a middle ground price rate which are affordable for students and profitable for tutors.
 
 ## Objective 
 * To create one fully functional mobile application.
 * To giving a student a platform to find the tutor.
-* To gather all the tuto in one platform.
-* To make one platform that making student and tuto having easier communication.
+* To gather all the tutor in one platform.
+* To make one platform that making student and tutor having easier communication.
 
 ## Features and functionalities
 
  ### Features ###
  
-For this project, it may require the user to have the internet in order to access it as it lives on the server. Users need register or login first before the able to access the application.There will be a homepage that will offer some options on where this application will bring them. The homepage will be different between user because of their role in this application. If they lregister as a student, they can navigate to another page such as level of studies, the details of the tuto, chatroom page and and booking tutorial session. For the tuto, they can have a request pages, details, and chatroom pages. 
+For this project, it may require the user to have the internet in order to access it as it lives on the server. Users need register or login first before the able to access the application.There will be a homepage that will offer some options on where this application will bring them. The homepage will be different between user because of their role in this application. If they register as a student, they can navigate to another page such as level of studies, the details of the tutor, chatroom page and and booking tutorial session. Tutor will have a request pages, details, and chatroom pages. 
  
  ### Functionalities ###
  
