@@ -20,13 +20,13 @@ Nur Hazirah Binti Haris Fadzilah | 1714158
 
 Not only, **`Mudaris`** aims to help students to succeed in their studies, it also seek to provides job opportunities to students as to ease their financial burden. Fret not, **`Mudaris`** tries to lay out a middle ground price rate which are affordable for students and profitable for tutors.
 
-### Objective (YUS)
+### Objective 
 * To create one fully functional mobile application.
 * To giving a student a platform to find the tutor.
 * To gather all the tuto in one platform.
 * To make one platform that making student and tuto having easier communication.
 
-### Features and functionalities (YUS)
+### Features and functionalities
 
  `Features`
  
@@ -38,8 +38,8 @@ For this project, it may require the user to have the internet in order to acces
  * Register and login through this application.
  * Find and read all the details of the tutor.
  * Book the tutorial sessions.
- * Chat with tuto if there any question.
- * See their details.
+ * Ask question to tutor through chatroom. 
+ * View their details.
  
  **Tutors**
  * Register and login through this application.
@@ -49,7 +49,7 @@ For this project, it may require the user to have the internet in order to acces
  * View students details
  
 
-### Properly define the screen navigation (routing) (HILMI) and components (presentational and container) (WANMAI) implementation with a diagram. 
+### Properly define the screen navigation (routing) and components (presentational and container) implementation with a diagram. 
 
 
 #### Presentational and container components
@@ -76,7 +76,7 @@ The container are:-
 - Booking Session
 - Notification
 
-### A sequence diagram to represent the interaction of the proposed (HILMI) mobile application.
+### A sequence diagram to represent the interaction of the proposed mobile application.
 
 **Students**
 part 1 
