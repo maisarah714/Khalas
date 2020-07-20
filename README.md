@@ -12,7 +12,7 @@ Nur Hazirah Binti Haris Fadzilah | 1714158
 ## Title of the project
 **Mudaris**
 
-### Introduction
+## Introduction
 
 **Mudaris** is designed to provide a mean of communication between tutors and students of all ages to communicate and meet instantly and have a lesson whenever and wherever they want. Students are able to enjoy seamless journey of finding a tutor suits their need. With just a few clicks, they will be able to set up a lesson meeting instantly!
 
