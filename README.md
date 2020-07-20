@@ -59,6 +59,11 @@ The presentational components are:-
 - studentProfile
 - pendingRequest
 - Chat screen
+- location
+- subjectList
+- tutorList
+- bookForm
+- bookStatus
 
 The container are:-
 - User Authentication 
