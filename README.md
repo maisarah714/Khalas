@@ -54,13 +54,33 @@ For this project, it may require the user to have the internet in order to acces
 
 #### Presentational and container components
 The presentational components are:-
-- Button
+- Homescreen
+- tutorProfile
+- studentProfile
+- pendingRequest
+- Chat screen
 
 The container are:-
-- User Authentication
+- User Authentication 
 - Data retrieval
+- 
 
 ### A sequence diagram to represent the interaction of the proposed (HILMI) mobile application.
 
+**Students**
+part 1 
+![Screenshot (4)](https://user-images.githubusercontent.com/61976768/87898717-905fa280-ca81-11ea-832a-6a045ddce685.png)
+
+part 2
+![Screenshot (5)](https://user-images.githubusercontent.com/61976768/87898842-e7fe0e00-ca81-11ea-95c4-b286a18d2082.png)
+
+
+**Tutors**
+
+![Screenshot (6)](https://user-images.githubusercontent.com/61976768/87898908-1e3b8d80-ca82-11ea-950b-ccd91fb02f1b.png)
+
 ### References.
-> to be updated
+- https://www.youtube.com/watch?v=nvPOUdz5PL4
+- https://gist.github.com/chantastic/fc9e3853464dffdb1e3c
+- https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native/
+- https://strapmobile.com/docs/react-native-uber-like-app-backend/v4.0.0/sequence-diagram/login
