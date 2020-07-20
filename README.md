@@ -49,11 +49,11 @@ For this project, it may require the user to have the internet in order to acces
  * View students details
  
  
-### Screen Navigation ###
+## Screen Navigation
 ![Screenshot (7)](https://user-images.githubusercontent.com/61976768/87936927-5238a200-cac6-11ea-904c-ddac84f43c80.png)
 
 
-### Presentational and container components
+## Presentational and container components
 **The presentational components are:-**
 - Homescreen
 - tutorProfile
