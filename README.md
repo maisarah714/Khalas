@@ -99,6 +99,5 @@ Part 2
 ## References.
 - https://www.youtube.com/watch?v=nvPOUdz5PL4
 - https://gist.github.com/chantastic/fc9e3853464dffdb1e3c
-- https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native/
 - https://strapmobile.com/docs/react-native-uber-like-app-backend/v4.0.0/sequence-diagram/login
 - https://github.com/FaridSafi/react-native-gifted-chat/
