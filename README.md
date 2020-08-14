@@ -35,18 +35,18 @@ For this project, it may require the user to have the internet in order to acces
  ### Functionalities ###
  
  **Students**
- * Register and login through this application.
- * Find and read all the details of the tutor.
- * Book the tutorial sessions.
- * Ask question to tutor through chatroom. 
- * View their details.
+ * They can register and login through this application if they wanted to access this application.
+ * All the details of the tutor will be visible for them and they can see all the tutor details.
+ * If the wanted to make appointment, they can book the tutorial sessions in the book tuto screen.
+ * User also can ask question to tutor through chatroom.
+ * They also view their details that they input during the registration.
  
  **Tutors**
- * Register and login through this application.
- * Update their tutorial session.
- * Accept or reject tutorial invitation
- * Chat with the other users.
- * View students details
+ * They can register and login through this application if they wanted to access this application.
+ * Tutor can update their tutorial session.
+ * The request for tutorial session can be accept or reject depends on the situation.
+ * They can chat to the other users at the chat screen.
+ * Like students, tutor also can view students details.
  
  
 ## Screen Navigation
@@ -75,7 +75,7 @@ For this project, it may require the user to have the internet in order to acces
 - get Tutor Profile
 - set Tutor Profile
 - get Tutor Availability 
-- Chat API
+- Chat API ( The chat API that we are using the GIFTED CHAT)
 - get User Profile
 - set User Profile
 - get Session
@@ -101,3 +101,4 @@ Part 2
 - https://gist.github.com/chantastic/fc9e3853464dffdb1e3c
 - https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native/
 - https://strapmobile.com/docs/react-native-uber-like-app-backend/v4.0.0/sequence-diagram/login
+- https://github.com/FaridSafi/react-native-gifted-chat/
