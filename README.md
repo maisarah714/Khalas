@@ -75,7 +75,7 @@ For this project, it may require the user to have the internet in order to acces
 - get Tutor Profile
 - set Tutor Profile
 - get Tutor Availability 
-- Chat API
+- Chat API - Gifted Chat API
 - get User Profile
 - set User Profile
 - get Session
