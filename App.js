@@ -17,6 +17,9 @@ import BookTutorScreen from './src/screens/BookTutorScreen';
 import TutorProfileScreen from './src/screens/TutorProfileScreen';
 import BookFormScreen from './src/screens/BookFormScreen';
 import SessionScreen from './src/screens/SessionScreen';
+
+import TutorViewSessionScreen from './src/screens/Tutor/TutorViewSessionScreen';
+import TutorViewRequestListScreen from './src/screens/Tutor/TutorViewRequestListScreen';
 //import firebase from './src/database/firebase';
 
 export default class App extends Component {
@@ -116,6 +119,20 @@ export default class App extends Component {
           <Scene 
             key="EditProfileScreen"
             component={EditProfileScreen}
+            //initial={true}
+            hideNavBar={true}
+            back={true}
+          />
+          <Scene 
+            key="TutorViewSessionScreen"
+            component={TutorViewSessionScreen}
+            //initial={true}
+            hideNavBar={true}
+            back={true}
+          />
+          <Scene 
+            key="TutorViewRequestListScreen"
+            component={TutorViewRequestListScreen}
             //initial={true}
             hideNavBar={true}
             back={true}
